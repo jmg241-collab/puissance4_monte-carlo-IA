@@ -20,4 +20,5 @@ Langage : Python (Numpy,Time,Random)
 Resultats :
 Le notebook contient un test ou l'algorithme affronte l'aléatoire. Les resultats de la simulation s'affiche directement après l'execution du fichier. 
 (en mettant le nombre de simulation a un nombre un peu plus élevé l'algorithme a meme réussit a battre une de mes camarades, mais bon le temps de réponse est plus long cependant)
+Et enfin, ce projet a été effectué avec deux autres camarades ce qui peut expliquer parfois le manque d'uniformité dans l'écriture de certaines fonctions au début.
 
